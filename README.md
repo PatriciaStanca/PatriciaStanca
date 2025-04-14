@@ -10,3 +10,8 @@ Every day, I aim to turn **complexity into clarity** and **ideas into action**.
 - ✍️ I believe that creativity and analysis are two sides of the same coin — and I love combining them to build solutions that make a real impact.
   
 ---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
+
+Let's connect, share ideas, and build something amazing together! 🚀
