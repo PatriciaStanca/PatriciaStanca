@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**PatriciaStanca/PatriciaStanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub! I'm a passionate explorer of data, technology, and business innovation 🚀
 
 🌟 About me:
@@ -11,4 +8,3 @@ Welcome to my GitHub! I'm a passionate explorer of data, technology, and busines
 - 🧠 Forever a learner – currently deepening my knowledge in AI, architecture, and advanced analytics
 - ✍️ I believe that creativity and analysis are two sides of the same coin — and I love combining them to build solutions that make a real impact
 
--->
