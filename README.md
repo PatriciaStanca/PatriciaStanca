@@ -10,7 +10,3 @@ Every day, I aim to turn **complexity into clarity** and **ideas into action**.
 - ✍️ I believe that creativity and analysis are two sides of the same coin — and I love combining them to build solutions that make a real impact.
   
 ---
-
-### 📈 GitHub Stats
-
-![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaStanca&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=333333)
