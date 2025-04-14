@@ -1,4 +1,4 @@
-# Hi there, I'm Patricia 👋✨
+## Hi there, I'm Patricia 👋✨
 
 Welcome to my GitHub! I'm a passionate explorer of **data**, **technology**, and **business innovation** 🚀.  
 Every day, I aim to turn **complexity into clarity** and **ideas into action**.
@@ -11,7 +11,7 @@ Every day, I aim to turn **complexity into clarity** and **ideas into action**.
   
 ---
 
-### 📫 Connect with me
+**📫 Connect with me**
 - [LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
 
-Let's connect, share ideas, and build something amazing together! 🚀
+#### Let's connect, share ideas, and build something amazing together! 🚀
