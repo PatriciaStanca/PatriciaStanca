@@ -2,7 +2,7 @@
 
 ### Turning complex data into clear, useful solutions.
 
-I'm a data and analytics professional based in Gothenburg, Sweden. I enjoy connecting business needs with practical technical solutions—from data pipelines and APIs to analysis, reporting, and cloud-based workflows.
+I'm based in Sweden and work with data and analytics. I like finding practical ways to connect business needs with technology. That can mean building data pipelines and APIs, analysing data, creating reports or improving cloud workflows.
 
 ## What I work with
 
