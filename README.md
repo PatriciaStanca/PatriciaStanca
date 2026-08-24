@@ -15,4 +15,5 @@ I'm especially interested in creating reliable solutions that make data easier t
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
+- [Portfolio](https://patriciastanca.com/)
+- [LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
