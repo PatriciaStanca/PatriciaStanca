@@ -1,17 +1,18 @@
-## Hi there, I'm Patricia 👋✨
+# Hi, I'm Patricia 👋
 
-Welcome to my GitHub! I'm a passionate explorer of **data**, **technology**, and **business innovation** 🚀.  
-Every day, I aim to turn **complexity into clarity** and **ideas into action**.
+### Turning complex data into clear, useful solutions.
 
-🌟 **About me:**  
-- 📊 I work as a Customer & Market Analyst, specializing in customer segmentation, digital transformation, and business strategy.  
-- 🎯 I'm driven by curiosity, a love for smart structures, and a deep passion for making things better – one project at a time.  
-- 🧠 Forever a learner, currently deepening my knowledge in AI, architecture, and advanced analytics.  
-- ✍️ I believe that creativity and analysis are two sides of the same coin,  and I love combining them to build solutions that make a real impact.
-  
----
+I'm a data and analytics professional based in Gothenburg, Sweden. I enjoy connecting business needs with practical technical solutions—from data pipelines and APIs to analysis, reporting, and cloud-based workflows.
 
-**📫 Connect with me**
-- [LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
+## What I work with
 
-#### Let's connect, share ideas, and build something amazing together! 🚀
+- **Data & analytics:** Python, SQL, Power BI, Microsoft Fabric, Snowflake and dbt
+- **Development:** C#/.NET, REST APIs, integration and testing
+- **Cloud & delivery:** Azure, Docker, CI/CD and Azure DevOps
+- **Ways of working:** troubleshooting, documentation and clear handovers
+
+I'm especially interested in creating reliable solutions that make data easier to understand and use.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/renata-patricia-stanca/)
